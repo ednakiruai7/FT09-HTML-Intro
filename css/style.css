@@ -1,0 +1,44 @@
+body{
+background-color: rgb(99, 203, 221);;
+
+
+}
+h1{
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 500px;
+}
+h2{color: purple;
+
+}
+h3{
+    color: palevioletred;
+    font-style: italic;
+}
+h4{color: blue;
+
+
+}
+h4{
+    color: brown;
+    font-family: cursive;
+}
+h5{
+    color: chocolate;
+    size: 300px;
+
+
+}
+h6{
+    color: crimson;
+
+
+}
+    
+
+
+
+
+
+
+
